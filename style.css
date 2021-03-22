@@ -1,0 +1,32 @@
+
+#outer_div{
+    border: 1px solid black;
+    height: 40rem;
+    width: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+#box1{
+    background-color:red;
+    height:10rem;
+    width:10rem;
+ 
+}
+/*
+#box2{
+ height: 30px;
+ width: 30px;
+ background-color: yellow;
+ position: sticky;
+ left: 20px;
+ top: 20px;
+}
+#box3{
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+   }
+*/   
+
+
